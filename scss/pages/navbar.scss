@@ -1,0 +1,36 @@
+/* VARIABLES */
+
+$menu-blog-color: #08d9d6;
+$bg-color: #2f1b41;
+
+/* NAVBAR */
+
+.nav-wrapper {
+    background: $bg-color;
+    padding-right: 70px;
+    .brand-logo {
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+.menu-li a {
+    color: #95989A;
+    padding-right: 25px;
+}
+
+.menu-li-blog {
+    background-color: $menu-blog-color;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.menu-li-blog a {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    box-shadow: 0 0px 0px 0;
+}

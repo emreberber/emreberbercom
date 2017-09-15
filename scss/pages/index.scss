@@ -1,0 +1,22 @@
+/* VARIABLES */
+
+$bg-color: #2f1b41;
+
+/* STYLES */
+
+html {
+    overflow-x: hidden;
+    padding: 0px;
+}
+
+body {
+    background: $bg-color;
+}
+
+
+/* IMPORTS */
+
+@import "../base";
+@import "../_normalize";
+@import "navbar";
+@import "profile";

@@ -1,0 +1,3 @@
+www -- >  sass --watch scss/pages/index.scss:css/index.css 
+            sass --watch scss/pages/blog.scss:css/blog.css 
+            sass --watch scss/pages/text.scss:css/text.css

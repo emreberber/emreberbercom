@@ -1,0 +1,17 @@
+{
+    "name": "Emre Berber",
+    "short_name": "Emre Berber",
+    "icons": [{
+        "src": "icon/icon.png",
+        "type": "image/png",
+        "sizes": "144x144"
+    }, {
+        "src": "icon/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2f1b41"
+}
